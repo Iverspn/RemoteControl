@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RemoteControl - 远程桌面控制工具
 
 基于 **Qt 6 + C++17** 开发的 Windows 远程桌面控制软件，通过 TCP 协议传输 JPEG 压缩画面，支持鼠标、键盘远程操控和文件传输。
@@ -276,3 +277,7 @@ RemoteControl_JPEG_UP/
 ## License
 
 本项目仅供学习和研究使用。
+=======
+# RemoteControl
+A simple remote control tool that can control another device on the local network
+>>>>>>> ba000dcb61218c551d48b73059c64ccf5b04ab22
