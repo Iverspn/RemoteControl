@@ -1,0 +1,17 @@
+release/main.o
+release/RemoteSession.o
+release/ScreenCapture.o
+release/InputInjector.o
+release/MainWindow.o
+release/HomePage.o
+release/HostPage.o
+release/ClientPage.o
+release/RemoteView.o
+release/qrc_resources.o
+release/moc_RemoteSession.o
+release/moc_ScreenCapture.o
+release/moc_MainWindow.o
+release/moc_HomePage.o
+release/moc_HostPage.o
+release/moc_ClientPage.o
+release/moc_RemoteView.o

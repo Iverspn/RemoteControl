@@ -1,0 +1,17 @@
+debug/main.o
+debug/RemoteSession.o
+debug/ScreenCapture.o
+debug/InputInjector.o
+debug/MainWindow.o
+debug/HomePage.o
+debug/HostPage.o
+debug/ClientPage.o
+debug/RemoteView.o
+debug/qrc_resources.o
+debug/moc_RemoteSession.o
+debug/moc_ScreenCapture.o
+debug/moc_MainWindow.o
+debug/moc_HomePage.o
+debug/moc_HostPage.o
+debug/moc_ClientPage.o
+debug/moc_RemoteView.o
